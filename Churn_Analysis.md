@@ -11,7 +11,7 @@ This Analysis is carried out during my Virtual Case Experience with PwC Switzerl
 Still in a hypothetical situation, a few weeks after presenting my dashboard to the management, the Retention Manager from the telecom reaches out to me directly. He was impressed by my work and asked if I can put together a dashboard about customer retention by defining proper KPIs, create a dashboard reflecting the KPIs, and write a short email to him explaining my findings, and include suggestions as to what needs to be changed
 
 
-# DEFININ KPIs
+# DEFINING KPIs
 
 I defined possible KPIs to get me started which include, but not limited to:
 
